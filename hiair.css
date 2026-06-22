@@ -685,6 +685,7 @@ header .head .a a.active:hover {
     width: 100%;
     font-size: 2.5rem;
     font-weight: bold;
+    padding-right: 15px;
 }
 .footer .content .hi span {
     color: var(--accent);
@@ -713,8 +714,7 @@ header .head .a a.active:hover {
         text-align: center;
     }
     .footer .content .hi {
-        padding-top: 100px;
-        padding-bottom: 20px;
+        padding: 100px 0 20px ;
     }
     .footer .content .hi1 {
         justify-content: center;
